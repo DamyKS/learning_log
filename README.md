@@ -19,5 +19,4 @@ Frontend:
 Backend:
 - Django Framework (Python) 
 
-Link to the web app: [https://learning-log-73xz.onrender.com) 
-
+Link to the web app: [Demo](https://learning-log-73xz.onrender.com)
